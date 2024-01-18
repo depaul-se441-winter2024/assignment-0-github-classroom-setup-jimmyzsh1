@@ -19,7 +19,7 @@ will require basic git skills.
 
 ## My Information
 
-My name is Shihua Zhang and my GitHub alias is jimmyzsh1 HERE.
+My name is Shihua Zhang and my GitHub alias is jimmyzsh1.
 
 ## Optional Next Steps
 
